@@ -1,3 +1,6 @@
 .idea/
 *.pyc
 /venvObjDet/
+
+*venv/
+/venv/

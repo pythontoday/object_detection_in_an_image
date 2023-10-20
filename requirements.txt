@@ -25,9 +25,9 @@ lxml==4.6.3
 Markdown==3.3.4
 matplotlib==3.4.1
 networkx==2.5.1
-numpy==1.19.5
+
 oauthlib==3.1.0
-opencv-python==4.5.1.48
+
 opt-einsum==3.3.0
 Pillow==8.2.0
 pixellib==0.6.1
