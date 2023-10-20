@@ -5,7 +5,7 @@ from pixellib.instance import instance_segmentation
 
 def object_detection_on_an_image():
     segment_image = instance_segmentation()
-    segment_image.load_model("path_to_model")
+    segment_image.load_model("mask_rcnn_balloon.h5")
 
     target_class = segment_image.select_target_classes(person=True)
 
